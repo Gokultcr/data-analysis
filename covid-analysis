@@ -12,4 +12,17 @@ print(os.listdir())  # used to get the list of all files and directories
 import warnings
 warnings.filterwarnings('ignore') # Writes a warning to a file
 
+import statsmodels.api as sm       # conducting statistical tests
+import statsmodels.stats.multicomp
+
+from statsmodels.formula.api import ols  # Create a Model from a formula and dataframe
+from statsmodels.stats.anova import anova_lm
+
+#importing data
+data = pd.read_csv("/kaggle/input/lastdata/covidprosker.csv")
+
+#drop unwanted columns
+data.drop(["District"], axis = 1, inplace = True) 
+
+
 
