@@ -1,0 +1,15 @@
+#Basic Data Analysis with Covid-19 dataset 
+#import packages
+
+import numpy as np    # linear algebra
+import pandas as pd   # data processing, CSV file I/O (e.g. pd.read_csv)
+import matplotlib.pyplot as plt  # ploting
+import seaborn as sns  # uses matplotlib to draw its plots
+
+import os
+print(os.listdir())  # used to get the list of all files and directories
+
+import warnings
+warnings.filterwarnings('ignore') # Writes a warning to a file
+
+
