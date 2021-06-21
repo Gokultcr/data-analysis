@@ -8,3 +8,11 @@ The data set contains different features like:
 * Travelled temperature
 * Last visited Country temperature. 
  
+# Python Libraries
+* numpy
+* pandas
+* matplotlib
+* seaborn
+* statsmodels
+* sklearn
+ 
