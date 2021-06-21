@@ -19,3 +19,6 @@ The data set contains different features like:
 # Machine-Learning Algorithms
 * Linear Regression
 * Logistic Regression
+
+# Summary
+Here covid-19 data set is analysed with basic analysis techniques and applied prediction algorithms. 
