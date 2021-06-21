@@ -16,3 +16,6 @@ The data set contains different features like:
 * statsmodels
 * sklearn
  
+# Machine-Learning Algorithms
+* Linear Regression
+* Logistic Regression
