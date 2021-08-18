@@ -1,5 +1,5 @@
 # Covid-data-analysis
-Basic data analysis and visualization techniques are applied on Covid-19 data set (Kerala). After pre-prcoessing and analysis few of the machine-learning algorithms are applied. 
+Basic data analysis and visualization techniques are applied on Covid-19 dataset (Kerala). After pre-prcoessing and analysis few of the machine-learning algorithms are applied. 
 The data set contains different features like:
 * Patients district
 * Age
@@ -21,4 +21,4 @@ The data set contains different features like:
 * Logistic Regression
 
 # Summary
-Here covid-19 data set is analysed with basic analysis techniques and applied prediction algorithms. 
+Here covid-19 dataset is analysed with basic analysis techniques and applied prediction algorithms. 
